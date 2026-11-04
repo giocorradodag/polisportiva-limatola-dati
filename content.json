@@ -314,5 +314,12 @@
       "status": "scheduled"
     }
   ],
-  "news": []
+  "news": [
+    {
+      "title": "TEST APP – Prima notizia della Polisportiva Limatola",
+      "body": "Questa è una notizia dimostrativa pubblicata per verificare l'aggiornamento online dell'app. Non è una comunicazione ufficiale della società. Se la leggi nella sezione News senza aver reinstallato l'APK, la sincronizzazione dei contenuti funziona!",
+      "category": "Test app",
+      "date": "2026-11-05"
+    }
+  ]
 }
