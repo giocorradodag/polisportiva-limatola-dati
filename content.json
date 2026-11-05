@@ -314,5 +314,30 @@
       "status": "scheduled"
     }
   ],
-  "news": []
+  "news": [
+    {
+      "title": "Il Limatola espugna il PalaCoscioni: 4-3 al Rione Cicalesi",
+      "body": "La Polisportiva Limatola conquista una vittoria esterna nella 7ª giornata di Serie C1, imponendosi 4-3 sul Rione Cicalesi. Per i biancazzurri doppietta di Scheleski e reti di Vigliotti e Faraone. Cronaca pubblicata da Salerno In Web il 3 novembre 2026. Fonte: https://www.salernoinweb.it/News/Salerno/49354-Calcio-a-5-il-Borgo-Five-frena-l%27entusiasmo-della-Virtus-Campagna-Cicalesi-sorpreso-in-casa-dal-Limatola",
+      "category": "Serie C1 · Rassegna stampa",
+      "date": "2026-11-03",
+      "source": "Salerno In Web",
+      "source_url": "https://www.salernoinweb.it/News/Salerno/49354-Calcio-a-5-il-Borgo-Five-frena-l%27entusiasmo-della-Virtus-Campagna-Cicalesi-sorpreso-in-casa-dal-Limatola"
+    },
+    {
+      "title": "Serie C1: Limatola nel gruppo delle seconde dopo cinque giornate",
+      "body": "Nel punto sul campionato pubblicato il 20 ottobre 2026, Salerno In Web segnala la Polisportiva Limatola al secondo posto a pari punti con Virtus Campagna e Borgo Five Soccer, alle spalle della Fortitudo Vesuviani. La classifica si riferisce alla quinta giornata, non a quella attuale. Fonte: https://www.salernoinweb.it/News/Salerno/49142-Calcio-a-5-la-Virtus-Campagna-sbanca-Acerra-e-vede-la-vetta-Sconfitta-casalinga-per-il-Rione-Cicalesi",
+      "category": "Serie C1 · Rassegna stampa",
+      "date": "2026-10-20",
+      "source": "Salerno In Web",
+      "source_url": "https://www.salernoinweb.it/News/Salerno/49142-Calcio-a-5-la-Virtus-Campagna-sbanca-Acerra-e-vede-la-vetta-Sconfitta-casalinga-per-il-Rione-Cicalesi"
+    },
+    {
+      "title": "Italo Tartaglione torna tra i pali della Polisportiva Limatola",
+      "body": "Punto5 riporta il ritorno del portiere Italo Tartaglione in biancazzurro per la stagione 2026/27. Dopo l'esperienza con l'MPF Futsal, il giocatore torna nel club con cui aveva già disputato la Serie B ai tempi della Sipremix Limatola. Notizia del 27 luglio 2026. Fonte: https://punto5.it/news/27-07-2026/serie-c1/242380/polisportiva-limatola-rinforzo-tra-i-pali-e-tartaglione/",
+      "category": "Calciomercato · Rassegna stampa",
+      "date": "2026-07-27",
+      "source": "Punto5",
+      "source_url": "https://punto5.it/news/27-07-2026/serie-c1/242380/polisportiva-limatola-rinforzo-tra-i-pali-e-tartaglione/"
+    }
+  ]
 }
