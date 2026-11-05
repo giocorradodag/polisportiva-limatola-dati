@@ -314,36 +314,5 @@
       "status": "scheduled"
     }
   ],
-  "news": [
-    {
-      "title": "TEST APP 5 – Verifica sincronizzazione durante lo sviluppo",
-      "body": "Quinta notizia di prova pubblicata il 5 novembre 2026 mentre prepariamo l’Area Dirigenti della Polisportiva Limatola. Serve esclusivamente a verificare il caricamento di nuovi contenuti nell’app senza reinstallarla. Questa non è una comunicazione ufficiale.",
-      "category": "Test app",
-      "date": "2026-11-05"
-    },
-    {
-      "title": "TEST APP 4 – Aggiornamento senza cambiare URL",
-      "body": "Quarta notizia di prova pubblicata per verificare l'aggiornamento dei contenuti da GitHub. Se compare dopo aver premuto Aggiorna, senza modificare l'indirizzo e senza reinstallare l'app, la sincronizzazione funziona anche per i nuovi contenuti. Questa non è una comunicazione ufficiale della società.",
-      "category": "Test app",
-      "date": "2026-11-05"
-    },
-    {
-      "title": "TEST APP 3 – Verifica aggiornamento in tempo reale",
-      "body": "Terza notizia di prova pubblicata il 5 novembre 2026. Serve a controllare se la Polisportiva Limatola scarica le nuove notizie senza disinstallare l'app. Questa non è una comunicazione ufficiale della società.",
-      "category": "Test app",
-      "date": "2026-11-05"
-    },
-    {
-      "title": "TEST APP 2 – Aggiornamento senza reinstallazione",
-      "body": "Questa è la seconda notizia dimostrativa, pubblicata il 5 novembre 2026 per verificare se l'app Polisportiva Limatola riceve nuovi contenuti da GitHub senza disinstallare o reinstallare l'APK. Non è una comunicazione ufficiale della società.",
-      "category": "Test app",
-      "date": "2026-11-05"
-    },
-    {
-      "title": "TEST APP – Prima notizia della Polisportiva Limatola",
-      "body": "Questa è una notizia dimostrativa pubblicata per verificare l'aggiornamento online dell'app. Non è una comunicazione ufficiale della società. Se la leggi nella sezione News senza aver reinstallato l'APK, la sincronizzazione dei contenuti funziona!",
-      "category": "Test app",
-      "date": "2026-11-05"
-    }
-  ]
+  "news": []
 }
