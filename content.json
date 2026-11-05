@@ -316,6 +316,12 @@
   ],
   "news": [
     {
+      "title": "TEST APP 4 – Aggiornamento senza cambiare URL",
+      "body": "Quarta notizia di prova pubblicata per verificare l'aggiornamento dei contenuti da GitHub. Se compare dopo aver premuto Aggiorna, senza modificare l'indirizzo e senza reinstallare l'app, la sincronizzazione funziona anche per i nuovi contenuti. Questa non è una comunicazione ufficiale della società.",
+      "category": "Test app",
+      "date": "2026-11-05"
+    },
+    {
       "title": "TEST APP 3 – Verifica aggiornamento in tempo reale",
       "body": "Terza notizia di prova pubblicata il 5 novembre 2026. Serve a controllare se la Polisportiva Limatola scarica le nuove notizie senza disinstallare l'app. Questa non è una comunicazione ufficiale della società.",
       "category": "Test app",
