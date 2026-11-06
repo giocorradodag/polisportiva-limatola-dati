@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-05",
+  "last_updated": "2026-11-06",
   "matches": [
     {
       "round": 1,
@@ -7,11 +7,11 @@
       "home": "Real Acerra C5",
       "away": "Polisportiva Limatola",
       "is_home": false,
-      "time": null,
+      "time": "14:00",
       "venue": null,
-      "home_score": null,
-      "away_score": null,
-      "status": "scheduled"
+      "home_score": 2,
+      "away_score": 3,
+      "status": "finished"
     },
     {
       "round": 2,
@@ -19,11 +19,11 @@
       "home": "Polisportiva Limatola",
       "away": "CP Futsal",
       "is_home": true,
-      "time": null,
+      "time": "14:00",
       "venue": null,
-      "home_score": null,
-      "away_score": null,
-      "status": "scheduled"
+      "home_score": 5,
+      "away_score": 1,
+      "status": "finished"
     },
     {
       "round": 3,
@@ -31,11 +31,11 @@
       "home": "Vesuvio C5",
       "away": "Polisportiva Limatola",
       "is_home": false,
-      "time": null,
+      "time": "14:00",
       "venue": null,
-      "home_score": null,
-      "away_score": null,
-      "status": "scheduled"
+      "home_score": 5,
+      "away_score": 7,
+      "status": "finished"
     },
     {
       "round": 4,
@@ -43,11 +43,11 @@
       "home": "Polisportiva Limatola",
       "away": "C.U.S. Napoli",
       "is_home": true,
-      "time": null,
+      "time": "14:00",
       "venue": null,
-      "home_score": null,
-      "away_score": null,
-      "status": "scheduled"
+      "home_score": 12,
+      "away_score": 3,
+      "status": "finished"
     },
     {
       "round": 5,
@@ -55,11 +55,11 @@
       "home": "Frattese 081 Game Futsal",
       "away": "Polisportiva Limatola",
       "is_home": false,
-      "time": null,
+      "time": "14:00",
       "venue": null,
-      "home_score": null,
-      "away_score": null,
-      "status": "scheduled"
+      "home_score": 2,
+      "away_score": 2,
+      "status": "finished"
     },
     {
       "round": 6,
@@ -67,11 +67,11 @@
       "home": "Polisportiva Limatola",
       "away": "Trilem Casavatore",
       "is_home": true,
-      "time": null,
+      "time": "14:00",
       "venue": null,
-      "home_score": null,
-      "away_score": null,
-      "status": "scheduled"
+      "home_score": 6,
+      "away_score": 1,
+      "status": "finished"
     },
     {
       "round": 7,
@@ -79,7 +79,7 @@
       "home": "Rione Cicalesi",
       "away": "Polisportiva Limatola",
       "is_home": false,
-      "time": null,
+      "time": "18:00",
       "venue": null,
       "home_score": 3,
       "away_score": 4,
